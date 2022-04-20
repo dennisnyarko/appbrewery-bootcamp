@@ -21,3 +21,5 @@ Wednesday 20/04/2022
 -Modifying images using class selectors (helps to effectively make changes to specific elements)
 -Modifying html elements using ids (not too good but help sometimes)
 -You can assing two xtics to a class butone one to an id
+-Using favicons on webpage
+-Basic styling of webpage elements (font, positioning)
