@@ -14,3 +14,10 @@ Tuesday 19/04/2022
 -Internal css (using css in html files)(not ideal-makes work/code clumsy)
 -External css (ideal way of implement css where a separate file(style.css) is created
 -How to debug css code (with the help of chrome developer tools to quickly identify where exact error is)
+
+Wednesday 20/04/2022
+-Anatomy of css syntax
+-Modifying images using tag selectors
+-Modifying images using class selectors (helps to effectively make changes to specific elements)
+-Modifying html elements using ids (not too good but help sometimes)
+-You can assing two xtics to a class butone one to an id
