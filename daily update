@@ -7,3 +7,10 @@ Monday 18/04/2022
 -Created a basic HTML webpage
 -Used links to connect two or more pages
 -Added images and also used tables in structuring data on the webpage(not recommended)
+
+Tuesday 19/04/2022
+-Introduction to CSS
+-Implemented inline css (using css in html tags)
+-Internal css (using css in html files)(not ideal-makes work/code clumsy)
+-External css (ideal way of implement css where a separate file(style.css) is created
+-How to debug css code (with the help of chrome developer tools to quickly identify where exact error is)
