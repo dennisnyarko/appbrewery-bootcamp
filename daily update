@@ -1,3 +1,6 @@
+https://www.appbrewery.co/p/web-development-course-resources
+
+
 Sunday 17/04/2022
 -Introduction to HTML
 -Modifying website features using HTML (not recommended but this what was done before CSS came along)
@@ -32,4 +35,5 @@ Thursday 21/04/2022
 -Also used padding to help structure the appearance
 -CSS Box Model
 -Used calculations to find appropiate dimensions to arrange three boxes in a said order
--
+-Using <span> to help put paragraph elements on the same line
+-Display values (block, inline, inline-block and none
