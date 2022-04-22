@@ -1,0 +1,29 @@
+/*******************************TAG SELECTORS******************************/
+
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+
+/*img{
+    background-color: red;
+}
+*/
+
+
+/*******************************CLASS SELECTORS******************************/
+
+.bacon{
+ background-color: blue;   
+}
+
+.rooster {
+    background-color: red;
+}
+
+
+/*******************************ID SELECTORS******************************/
+#heading{
+    color: black 
+}
