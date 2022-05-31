@@ -26,5 +26,6 @@ More on javascript in introduction-to-javascript repository
 Tuesday 30/05/2022
 -Calculations using functions
 -Intermediate javascript
----Random number generation in js --> var n = math.random();
--
+---Random number generation in js --> var n = math.random(); This takes retrieves random numbers b/n 0-0.999
+To make it whole ---> n = math.floor(n);
+
