@@ -28,4 +28,5 @@ Tuesday 30/05/2022
 -Intermediate javascript
 ---Random number generation in js --> var n = math.random(); This takes retrieves random numbers b/n 0-0.999
 To make it whole ---> n = math.floor(n);
+-IF ELSE conditions
 
