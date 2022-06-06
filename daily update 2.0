@@ -58,3 +58,5 @@ Monday 06/06/2022
 -Document Object Model (DOM)
 -Adding javascript to website
 -Get Property and Set property
+-Call method eg. car.drive();
+  car being the object and drive() being the method
