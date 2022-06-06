@@ -60,3 +60,4 @@ Monday 06/06/2022
 -Get Property and Set property
 -Call method eg. car.drive();
   car being the object and drive() being the method
+-A method is soemthing an object can do (diff b/n method and function)
