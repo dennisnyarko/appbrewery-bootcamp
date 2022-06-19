@@ -1,8 +1,11 @@
 
+//Generating random numbers from 1-6
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
+//Selecting image from dice1.png - dice6.png
 var randomImageSource1 = "images/dice" + "randomNumber + ".png";
 
+//Changing image randomly
 document.querySelectorAll("img")[1].setAttribute("src", randomImageSource1);
 
 
