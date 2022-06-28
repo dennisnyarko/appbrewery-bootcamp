@@ -44,7 +44,7 @@ switch (buttonInnerHTML) {
     kick.play();
     break;
 
-    default:
+    default: console.log(buttonInnerHTML);
         
 }
 
