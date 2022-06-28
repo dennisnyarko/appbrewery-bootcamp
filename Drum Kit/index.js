@@ -50,3 +50,8 @@ switch (buttonInnerHTML) {
 
 });
 }
+
+document.addEventListener("keydown", function(){
+    alert("Key was pressed!");
+}
+);
