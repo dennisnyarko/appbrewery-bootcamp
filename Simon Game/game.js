@@ -1,7 +1,7 @@
 
-buttonColors = ["red","blue","green","yellow"];
+var buttonColors = ["red","blue","green","yellow"];
 
-gamePattern = [];
+var gamePattern = [];
 
 function nextSequence(){
     var randomNumber = Math.floor(Math.random() * 4) ;
