@@ -3,6 +3,11 @@ var buttonColours = ["red","blue","green","yellow"];
 
 var gamePattern = [];
 
+$(".btn").click(function() {
+    var userChosenColour = $(this).attr("id");
+
+});
+
 function nextSequence(){
     var randomNumber = Math.floor(Math.random() * 4);
     var randomChosenColour = buttonColours[randomNumber];
