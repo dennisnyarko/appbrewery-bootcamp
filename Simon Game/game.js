@@ -4,6 +4,11 @@ var buttonColours = ["red","blue","green","yellow"];
 var gamePattern = [];
 var userClickedPattern = [];
 
+
+$(document).keypress(function(){
+
+}
+
 $(".btn").click(function() {
 
     var userChosenColour = $(this).attr("id");
