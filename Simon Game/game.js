@@ -48,6 +48,10 @@ function checkAnswer(currentLevel) {
     } else {
 
       console.log("wrong");
+        
+      playSound("wrong");
+        
+        
 
     }
 
