@@ -98,3 +98,5 @@ function animatePress(currentColour){
 }
 
 function startOver() {
+    
+    
