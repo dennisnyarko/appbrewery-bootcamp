@@ -334,3 +334,4 @@ Saturday 10th September
 2.Table Structure         2.Document structure
 3.Requires a schema       3.More flexible to changes
 4.Great w/ relashps       4.Not great with complex relationships
+5.Scales Vertically       5.Horizontally scalable
