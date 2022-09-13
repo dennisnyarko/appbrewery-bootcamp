@@ -348,3 +348,4 @@ Monday 12th September
 
 Tuesday 13th September
 -MongoDB CRUD Operation: CREATE
+db.products.insertOne({_id: 1, name: "Pen", price: 1.20})
