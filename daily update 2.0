@@ -352,3 +352,5 @@ db.products.insertOne({_id: 1, name: "Pen", price: 1.20})
 
 Wednesday 14th September
 -(Deviated a bit) deciding which language to specialize in backend development
+
+Thursday 15th September
