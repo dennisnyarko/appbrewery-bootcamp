@@ -366,3 +366,4 @@ Saturday 17th September
 Sunday 18th September
 -MongoDB CRUD Operation: Reading & Queries
 db.products.find()------general query
+db.products.find({name: "Pencil"})------specific query (for name with Pencil)
