@@ -367,3 +367,4 @@ Sunday 18th September
 -MongoDB CRUD Operation: Reading & Queries
 db.products.find()------general query
 db.products.find({name: "Pencil"})------specific query (for name with Pencil)
+db.products.find({price: {"$gt 1"}})------specific query (for price > 1)
