@@ -376,3 +376,22 @@ db.products.updateOne({_id: 1}, {$set: {stock: 32}})------adding stock column
 
 -MongoDB CRUD Operation: DELETE
 db.products.deleteOne({_id: 2})-----deleting whole row with id = 2
+
+Relationships in MongoDB
+db.products.insertOne({
+_id: 2,
+price: 0.80,
+stock: 12,
+review: [
+{
+ authorName: "Santa",
+ rating: 5,
+ review: "Excellent"
+},
+{
+ authorName: "Brock",
+ rating: 5,
+ review: "Best product ever"
+}
+]
+})
