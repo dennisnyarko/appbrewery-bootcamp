@@ -404,9 +404,9 @@ Tuesday 20th September
 -MongoDB with Node.js
 
 Wednesday 21st September
--Introduction to Mongoose
-const mongoose = require('mongoose');
+-Introduction to Mongoose (helps act as mongoDB but with less lines of code)
 
+const mongoose = require('mongoose');
 mongoose.connect("mongodb://localhost:27017/fruitsDB", {useNewUrlParser: true });
 
 
