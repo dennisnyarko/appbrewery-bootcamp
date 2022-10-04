@@ -449,3 +449,4 @@ Monday 3rd October
 -Heroku issues (unable to login via git bash (CLI))
 
 Tuesday 4th October
+-Fixed heroku issue by updating git bash and running as admin
